@@ -1,6 +1,2 @@
 this is merging process
-<<<<<<< HEAD
-abcdefghijklmnopqrstuvwxyz
-=======
-abcdefghijklmnopqrstuvwxyz
->>>>>>> B1
+hello master
