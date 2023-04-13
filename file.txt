@@ -1,2 +1,7 @@
 this is merging process
+<<<<<<< HEAD
 hello master
+=======
+abcdefghijklmnopqrstuvwxyz
+hi
+>>>>>>> B1
